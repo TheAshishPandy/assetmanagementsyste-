@@ -9,7 +9,7 @@ export default function HeaderPage() {
 
   return (
     <>
-      <MenuPage /> 
+       <MenuPage/>
       <MainPage />
     </>
   );
